@@ -23,7 +23,7 @@ to install all dependencies.
 
 To set up the development environment, run:
 
-npm run dev
+npm run build
 
 or simply start the project with:
 
